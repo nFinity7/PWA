@@ -10,12 +10,12 @@ const assets = [
   "/assets/icon-192x192.png",
   "/assets/icon-256x256.png",
   "/assets/icon-384x384.png",
-  "/assets/icon-512x512.png"
+  "/assets/icon-512x512.png",
 ]
 
 self.addEventListener("install", installEvent => {
   installEvent.waitUntil(
-    caches.open(staticDevCoffee).then(cache => {
+    caches.open(staticPWA).then(cache => {
       cache.addAll(assets);
     })
   );
