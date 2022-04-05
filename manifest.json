@@ -7,6 +7,7 @@
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
     "scope": "/",
+    "id": "/index.html",
     "icons": [
         {
             "src": "assets/icon-192x192.png",
