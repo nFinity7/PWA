@@ -1,12 +1,12 @@
 {
     "name": "PWA",
     "short_name": "PWA",
-    "start_url": "/index.html",
+    "start_url": "https://nfinity7.github.io/PWA/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
-    "scope": "/index.html",
+    "scope": "https://nfinity7.github.io/PWA/",
     "id": "/index.html",
     "icons": [
         {
