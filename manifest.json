@@ -6,7 +6,7 @@
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
-    "scope": "./",
+    "scope": "/index.html",
     "id": "/index.html",
     "icons": [
         {
