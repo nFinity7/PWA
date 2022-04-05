@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap");
+
+body {
+  overflow: hidden;
+}
 /* * {
   margin: 0;
   padding: 0;
